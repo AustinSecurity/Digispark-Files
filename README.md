@@ -3,7 +3,7 @@
 This is for the YouTube Series on the YouTube Channel Austin Security Tips. You can check the playlist [here](https://www.youtube.com/playlist?list=PLpc5XEvr-NNxXCnGspldGtvSJhcoYPDs6).
 
 ## What and Where to buy
-You have to get the Digispark ATTINY85 or newer, which you can buy for $1.50 [here](https://www.ebay.com/itm/Digispark-Kickstarter-ATTINY85-Arduino-General-Micro-USB-Development-Board/142062832671).
+You have to get the Digispark ATTINY85 or newer, which you can buy for $1.50 USD [here](https://www.ebay.com/itm/Digispark-Kickstarter-ATTINY85-Arduino-General-Micro-USB-Development-Board/142062832671).
 
 ## Files Currently Here
 
